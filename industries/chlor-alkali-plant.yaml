@@ -107,7 +107,7 @@ colour: 191
 fundCostMultiplier: 170
 id: 7
 layout:
-- - - 4
+- - - 9
     - 3
     - 0
     - 1
@@ -308,4 +308,26 @@ tiles:
       filename: industries/chlor-alkali-plant/15.png
       left: -31
       top: -35
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/chlor-alkali-plant/17.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/chlor-alkali-plant/18.png
+      left: -31
+      top: 0
 type: secondary
