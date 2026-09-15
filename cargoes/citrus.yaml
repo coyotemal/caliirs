@@ -1,16 +1,16 @@
 abbreviation: CT
 available: true
-classes: 320
-colour: 5
+classes: 160
+colour: 187
 id: 15
-label: CTAR
-longName: coal tar
-name: Coal Tar
+label: CITR
+longName: citrus
+name: Citrus
 penaltyLength: 191
 penaltyLowerBound: 64
 price: 4029
 sprite:
-  filename: cargoes/coal-tar.png
+  filename: cargoes/citrus.png
   left: 0
   top: 0
 unitName: Tonnes
