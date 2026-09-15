@@ -1,4 +1,5 @@
-description: A new TrueGRF project based on FIRS Steeltown
+description: This is an industry set based on the California economy
 license: GPL-2.0
+name: California State Industry Set (CALISIS)
 type: industry
 version: 6
