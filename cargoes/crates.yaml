@@ -1,17 +1,17 @@
-abbreviation: FC
+abbreviation: CR
 available: true
-classes: 16
+classes: 32
 colour: 146
 id: 21
-label: FECR
-longName: ferrochrome
-name: Ferrochrome
+label: CRAT
+longName: crates
+name: Crates
 penaltyLength: 215
 penaltyLowerBound: 40
 price: 4358
 sprite:
-  filename: cargoes/ferrochrome.png
+  filename: cargoes/crates.png
   left: 0
   top: 0
-unitName: Tonnes
-weight: 16
+unitName: Items
+weight: 1
